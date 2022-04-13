@@ -3,8 +3,11 @@ import "../styles/globals.css";
 
 export default function MyApp({ Component, pageProps }) {
   return (
-    <Layout>
+    <>
+      <Layout>
+      </Layout>
       <Component {...pageProps} />
-    </Layout>
+
+    </>
   );
 }

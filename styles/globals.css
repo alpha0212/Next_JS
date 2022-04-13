@@ -1,3 +1,5 @@
+
+
 html,
 body {
   padding: 0;
@@ -7,9 +9,8 @@ body {
 }
 
 body {
-  max-width: 520px;
   width: 100%;
-  margin: 0 auto;
+  color: black;
 }
 
 a {
@@ -17,6 +18,4 @@ a {
   text-decoration: none;
 }
 
-* {
-  box-sizing: border-box;
-}
+
